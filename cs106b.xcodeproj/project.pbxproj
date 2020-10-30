@@ -9,9 +9,6 @@
 /* Begin PBXBuildFile section */
 		CF01F33325488DB10089FF50 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF01F33225488DB10089FF50 /* 1.cpp */; };
 		CF01F33625488DBD0089FF50 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF01F33525488DBD0089FF50 /* 2.cpp */; };
-		CF01F33925488DCA0089FF50 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF01F33825488DCA0089FF50 /* 3.cpp */; };
-		CF01F33C25488DD50089FF50 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF01F33B25488DD50089FF50 /* 4.cpp */; };
-		CF01F33F25488DE20089FF50 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF01F33E25488DE20089FF50 /* 5.cpp */; };
 		CFAFF1A325487897001DA2E3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFAFF1A125487897001DA2E3 /* main.cpp */; };
 		CFAFF1AD25487D17001DA2E3 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFAFF1AC25487D17001DA2E3 /* 1.cpp */; };
 		CFAFF1B125487D27001DA2E3 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFAFF1AF25487D27001DA2E3 /* 2.cpp */; };
@@ -32,9 +29,7 @@
 /* Begin PBXFileReference section */
 		CF01F33225488DB10089FF50 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		CF01F33525488DBD0089FF50 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
-		CF01F33825488DCA0089FF50 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
-		CF01F33B25488DD50089FF50 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
-		CF01F33E25488DE20089FF50 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		CF8D29E82548BD57000481F6 /* Notes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notes.md; sourceTree = "<group>"; };
 		CF8E7E71254869FF000CA605 /* cs106b */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cs106b; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFAFF19A2548784E001DA2E3 /* Notes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notes.md; sourceTree = "<group>"; };
 		CFAFF1A125487897001DA2E3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -59,9 +54,7 @@
 			children = (
 				CF01F33225488DB10089FF50 /* 1.cpp */,
 				CF01F33525488DBD0089FF50 /* 2.cpp */,
-				CF01F33825488DCA0089FF50 /* 3.cpp */,
-				CF01F33B25488DD50089FF50 /* 4.cpp */,
-				CF01F33E25488DE20089FF50 /* 5.cpp */,
+				CF8D29E82548BD57000481F6 /* Notes.md */,
 			);
 			path = Lecture2;
 			sourceTree = "<group>";
@@ -162,9 +155,6 @@
 				CF01F33625488DBD0089FF50 /* 2.cpp in Sources */,
 				CFAFF1B125487D27001DA2E3 /* 2.cpp in Sources */,
 				CFAFF1A325487897001DA2E3 /* main.cpp in Sources */,
-				CF01F33F25488DE20089FF50 /* 5.cpp in Sources */,
-				CF01F33925488DCA0089FF50 /* 3.cpp in Sources */,
-				CF01F33C25488DD50089FF50 /* 4.cpp in Sources */,
 				CFAFF1AD25487D17001DA2E3 /* 1.cpp in Sources */,
 				CF01F33325488DB10089FF50 /* 1.cpp in Sources */,
 			);
